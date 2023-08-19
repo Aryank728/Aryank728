@@ -11,8 +11,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="150" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471dv6z4b0q2qd5kj9dft2r6gabbr4kb2ezj882oa8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
@@ -61,7 +59,7 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="center">👩‍💻 Coding my dreams into reality, one line of code at a time! 🚀</p>
 
 ###
 
