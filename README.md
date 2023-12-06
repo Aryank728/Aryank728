@@ -9,11 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aryank728&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="145" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e471dv6z4b0q2qd5kj9dft2r6gabbr4kb2ezj882oa8&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
+<div align="center">
+  <img height="500" width="700" style="margin-left: 450px;" src="https://media0.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47s2h3r1locjtdgxf0vo50rxx392m4ymxvz4gr6nrv&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+</div>
 
 <br clear="both">
 
