@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Aryan Kumar and I'm a IT Graduate, from Bengal Institute of Technology</h2>
+<h2 align="left">Hi 👋! My name is Aryan Kumar and I'm a IT Graduate from Bengal Institute of Technology</h2>
 
 ###
 
