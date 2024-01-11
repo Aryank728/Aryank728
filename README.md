@@ -88,11 +88,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Aryan Kumar">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31z65vxuqmr664idosmpwseez3eq&unique={true|1|on|yes}" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
