@@ -1,6 +1,7 @@
 # 💫 About Me:
 💻 I'm currently working on Full Stack Web Applications<br>🌱 I'm currently learning Python's Library<br>🙋 Ask me about programming<br>⚡ Fun fact: Always be a learner<br><br>Committing to excellence 🚀🧑‍💻
 
+[![](https://visitcount.itsvg.in/api?id=Aryank728&icon=2&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/aryank728) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryankr728) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryank728) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_aryankumar) 
@@ -23,6 +24,3 @@
 
 ### 😂 Random Dev Meme
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Aryank728&icon=2&color=12)](https://visitcount.itsvg.in)
